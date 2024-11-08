@@ -1,0 +1,11 @@
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\MatriculaService.deps.json
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\MatriculaService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\MatriculaService.pdb
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.AssemblyInfoInputs.cache
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.AssemblyInfo.cs
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.csproj.CoreCompileInputs.cache
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\refint\MatriculaService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\MatriculaService.pdb
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\ref\MatriculaService.dll

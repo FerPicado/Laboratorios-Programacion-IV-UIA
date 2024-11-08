@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio_1", "Laboratorio_1\Laboratorio_1.csproj", "{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriculaService", "MatriculaService\MatriculaService.csproj", "{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF782AC-A34C-46F7-9DAA-2D82FC17E383}
+	EndGlobalSection
+EndGlobal
