@@ -18,8 +18,23 @@ namespace Laboratorio_1.Controllers
         public async Task<IActionResult> GetMatricula()
         {
             var matricula = await _matricula.GetMatricula();
-            // usado el _ para no almacenar el valor en una var que no vamos a usar, al final solo lo queremos ver en Postman
+            
             return Ok(matricula); 
+        }
+
+        [HttpGet("miMatriculaDb")]
+        public async Task<IActionResult> miMatriculaDb()
+        {
+            try
+            {
+                var matriculaDb = await _matricula.miMatriculaDb();
+                return Ok(matriculaDb);
+            }
+
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

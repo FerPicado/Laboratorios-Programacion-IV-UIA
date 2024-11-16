@@ -11,3 +11,5 @@ build_property.RootNamespace = MatriculaService
 build_property.ProjectDir = C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

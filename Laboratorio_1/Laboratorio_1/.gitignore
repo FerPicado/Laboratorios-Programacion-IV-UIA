@@ -1,0 +1,28 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# Archivos generados por compilación
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Archivos específicos de .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+
+*.env
+
+# Ignorar archivos generados por Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+*.user
+*.userosscache
+*.suo
+*.userprefs

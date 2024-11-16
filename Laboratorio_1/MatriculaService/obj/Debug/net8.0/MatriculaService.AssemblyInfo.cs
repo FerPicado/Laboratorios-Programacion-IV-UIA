@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatriculaService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f9a626af4cdf919806cfe15f49a2bd915fcd30")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatriculaService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatriculaService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
