@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\models\\matriculamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\models\\matriculamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MatriculaService\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "MatriculaService\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:35:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatriculaModel.cs",
+              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Models\\MatriculaModel.cs",
+              "RelativeDocumentMoniker": "MatriculaService\\Models\\MatriculaModel.cs",
+              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Models\\MatriculaModel.cs",
+              "RelativeToolTip": "MatriculaService\\Models\\MatriculaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:35:55.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
