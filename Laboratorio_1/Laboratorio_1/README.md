@@ -63,25 +63,26 @@ This project is a RESTful API for managing student enrollments (matriculas). It 
     "idMatricula": 3,
     "idEstudiante": 105
   }
+  
 - **Response**:
-- ```json
+  ```json
   {
-     "Cupo Disponible: true\nFecha de Matrícula: 2024-11-21T09:30:00\nEstado de Matrícula: Pendiente\nID Estudiante: 105\nID Matrícula: 3"
+    "Cupo Disponible": true,
+    "Fecha de Matrícula": "2024-11-21T09:30:00",
+    "Estado de Matrícula": "Pendiente",
+    "ID Estudiante": 105,
+    "ID Matrícula": 3
   }
 
-  ## **Setup Instructions**
+## **Setup Instructions**
 
 ### **1. Prerequisites**
 - .NET 6 SDK or later installed.
 - SQL Server instance configured.
 - Postman or similar tool for API testing.
 
-### **2. Clone the Repository**
-```bash
-git clone <repository-url>
-cd <repository-folder>
 
-### **3. Configure the Database**
+### **2. Configure the Database**
 - Update the connection string in `appsettings.json`:
   ```json
   {
