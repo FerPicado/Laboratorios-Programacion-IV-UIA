@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "MatriculaService\\Controllers\\IMatricula.cs",
               "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Controllers\\IMatricula.cs",
               "RelativeToolTip": "MatriculaService\\Controllers\\IMatricula.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T19:01:40.728Z",
               "IsPinned": true,
@@ -65,8 +65,11 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T07:09:21.809Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -78,12 +81,7 @@
               "RelativeToolTip": "MatriculaService\\Models\\MatriculaModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:02:15.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-11-19T19:02:15.02Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "Laboratorio_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:24.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:01:24.018Z"
             },
             {
               "$type": "Document",
@@ -108,8 +105,7 @@
               "RelativeToolTip": "Laboratorio_1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T19:01:20.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:01:20.085Z"
             },
             {
               "$type": "Document",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "MatriculaService\\Data\\IMatriculaEstudianteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:53.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:01:53.261Z"
             },
             {
               "$type": "Document",
@@ -134,8 +129,7 @@
               "RelativeToolTip": "MatriculaService\\Data\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:02:04.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:02:04.721Z"
             }
           ]
         }
