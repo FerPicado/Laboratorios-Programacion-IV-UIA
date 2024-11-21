@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\controllers\\imatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\controllers\\imatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\laboratorio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|solutionrelative:laboratorio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\data\\imatriculaestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\data\\imatriculaestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\laboratorio_1\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|solutionrelative:laboratorio_1\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\models\\matriculamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\MatriculaService.csproj|solutionrelative:matriculaservice\\models\\matriculamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\laboratorio_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F5F44D6B-50C1-4DC2-8670-A31291E0CA84}|Laboratorio_1\\Laboratorio_1.csproj|solutionrelative:laboratorio_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,93 +19,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IMatricula.cs",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Controllers\\IMatricula.cs",
-              "RelativeDocumentMoniker": "MatriculaService\\Controllers\\IMatricula.cs",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Controllers\\IMatricula.cs",
-              "RelativeToolTip": "MatriculaService\\Controllers\\IMatricula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:40.728Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MatriculaController.cs",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\Controllers\\MatriculaController.cs",
-              "RelativeDocumentMoniker": "Laboratorio_1\\Controllers\\MatriculaController.cs",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\Controllers\\MatriculaController.cs",
-              "RelativeToolTip": "Laboratorio_1\\Controllers\\MatriculaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T07:09:21.809Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MatriculaModel.cs",
               "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Models\\MatriculaModel.cs",
               "RelativeDocumentMoniker": "MatriculaService\\Models\\MatriculaModel.cs",
               "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Models\\MatriculaModel.cs",
               "RelativeToolTip": "MatriculaService\\Models\\MatriculaModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:02:15.02Z"
+              "WhenOpened": "2024-11-19T19:02:15.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio_1\\Program.cs",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\Program.cs",
-              "RelativeToolTip": "Laboratorio_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:24.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\appsettings.json",
-              "RelativeDocumentMoniker": "Laboratorio_1\\appsettings.json",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\Laboratorio_1\\appsettings.json",
-              "RelativeToolTip": "Laboratorio_1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T19:01:20.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMatriculaEstudianteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\IMatriculaEstudianteRepository.cs",
-              "RelativeDocumentMoniker": "MatriculaService\\Data\\IMatriculaEstudianteRepository.cs",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\IMatriculaEstudianteRepository.cs",
-              "RelativeToolTip": "MatriculaService\\Data\\IMatriculaEstudianteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:53.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "MatriculaService\\Data\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\Data\\MyDbContext.cs",
-              "RelativeToolTip": "MatriculaService\\Data\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:02:04.721Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
