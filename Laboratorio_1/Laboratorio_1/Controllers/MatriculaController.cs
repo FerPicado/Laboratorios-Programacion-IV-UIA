@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MatriculaService.Controllers;
+using MatriculaService.Models;
 
 namespace Laboratorio_1.Controllers
 {
@@ -29,6 +30,21 @@ namespace Laboratorio_1.Controllers
             {
                 var matriculaDb = await _matricula.miMatriculaDb();
                 return Ok(matriculaDb);
+            }
+
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpPost("nuevaMatricula")]
+        public async Task<IActionResult> nuevaMatricula([FromBody] MatriculaEstudianteModel matInfo)
+        {
+            try
+            {
+                var matGuardado = await _matricula.nuevaMatricula(matInfo);
+                return Ok(matGuardado);
             }
 
             catch (Exception ex)

@@ -18,5 +18,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laboratorio_1.Controllers.MatriculaController",
+    "Method": "nuevaMatricula",
+    "RelativePath": "api/Matricula/nuevaMatricula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "matInfo",
+        "Type": "MatriculaService.Models.MatriculaEstudianteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

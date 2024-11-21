@@ -13,6 +13,7 @@ namespace MatriculaService.Data
     public interface IMatriculaEstudianteRepository
     {
         Task<IEnumerable<MatriculaEstudianteModel>> miMatriculaDb();
+
     }
 
 

@@ -12,6 +12,8 @@ namespace MatriculaService.Controllers
     {
         Task<MatriculaEstudianteModel> GetMatricula();
         Task<IEnumerable<MatriculaEstudianteModel>> miMatriculaDb();
+
+        Task<string> nuevaMatricula(MatriculaEstudianteModel matInfo);
     }
 
     public class MatriculaSystem : IMatricula
@@ -36,5 +38,15 @@ namespace MatriculaService.Controllers
         {
             return await _repository.miMatriculaDb();
         }
+
+        public async Task<string> nuevaMatricula(MatriculaEstudianteModel matInfo)
+        {
+            return $"Cupo Disponible: {matInfo.CupoDisponible}\n" +
+                   $"Fecha de Matrícula: {matInfo.FechaMatricula}\n" +
+                   $"Estado de Matrícula: {matInfo.EstadoMatricula}\n" +
+                   $"ID Estudiante: {matInfo.IdEstudiante}\n" +
+                   $"ID Matrícula: {matInfo.IdMatricula}";
+        }
+
     }
 }
