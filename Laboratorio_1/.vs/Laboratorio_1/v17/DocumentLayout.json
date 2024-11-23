@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\EnrollmentService.csproj|c:\\users\\ferpi\\source\\repos\\laboratorios\\laboratorio_1\\matriculaservice\\enrollmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B87AF0CB-CB71-4D5A-A766-1DD9CA4542E2}|MatriculaService\\EnrollmentService.csproj|solutionrelative:matriculaservice\\enrollmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnrollmentService",
-              "DocumentMoniker": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj",
-              "RelativeDocumentMoniker": "MatriculaService\\EnrollmentService.csproj",
-              "ToolTip": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj",
-              "RelativeToolTip": "MatriculaService\\EnrollmentService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T06:31:03.707Z",
-              "EditorCaption": ""
             }
           ]
         }
