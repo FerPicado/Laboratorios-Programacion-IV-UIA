@@ -1,0 +1,13 @@
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\EnrollmentService.deps.json
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\EnrollmentService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\bin\Debug\net8.0\EnrollmentService.pdb
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.csproj.AssemblyReference.cache
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.AssemblyInfoInputs.cache
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.AssemblyInfo.cs
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.csproj.CoreCompileInputs.cache
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.sourcelink.json
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\refint\EnrollmentService.dll
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\EnrollmentService.pdb
+C:\Users\ferpi\source\repos\Laboratorios\Laboratorio_1\MatriculaService\obj\Debug\net8.0\ref\EnrollmentService.dll

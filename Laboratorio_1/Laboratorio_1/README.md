@@ -1,78 +1,82 @@
-﻿# **Matricula Management API**
+﻿# **Enrollment Management API**
 
-This project is a RESTful API for managing student enrollments (matriculas). It provides endpoints to retrieve, create, and manage enrollment data.
+This project is a RESTful API for managing student enrollments. It provides endpoints to retrieve, create, and manage enrollment data.
 
 ---
 
 ## **Features**
-- Retrieve a single matricula with predefined values.
-- Fetch all matriculas stored in the database.
-- Add new matriculas via HTTP POST requests using JSON payloads.
+- Retrieve a single enrollment with predefined values.
+- Fetch all enrollments stored in the database.
+- Add new enrollments via HTTP POST requests using JSON payloads.
 
 ---
 
 ## **Technologies Used**
 - **ASP.NET Core**: Framework for building the API.
 - **Entity Framework Core**: ORM for database interactions.
-- **SQL Server**: Database for storing matricula data.
+- **SQL Server**: Database for storing enrollment data.
 - **Postman**: Tool for testing API endpoints.
 
 ---
 
 ## **Endpoints**
-### **1. Get Matricula**
-- **URL**: `/api/Matricula/GetMatricula`
+### **1. Get Enrollment**
+- **URL**: `/api/Enrollment/GetEnrollment`
 - **Method**: `GET`
-- **Description**: Retrieves a sample matricula with hardcoded values.
+- **Description**: Retrieves a sample enrollment with predefined hardcoded values.
 - **Response**:
   ```json
   {
-    "fechaMatricula": "2024-11-20T12:00:00",
-    "cupoDisponible": true,
-    "estadoMatricula": "Activo",
-    "idMatricula": 1,
-    "idEstudiante": 1
+    "enrollmentDate": "2024-11-20T12:00:00",
+    "isSlotAvailable": true,
+    "enrollmentStatus": "Active",
+    "enrollmentId": 1,
+    "studentId": 1
   }
 
-### **2. Get All Matriculas from Database**
-- **URL**: `/api/Matricula/miMatriculaDb`
+### **2. Get All Enrollments from Database**
+- **URL**: `/api/Enrollment/GetEnrollmentDb`
 - **Method**: `GET`
-- **Description**: Fetches all matriculas stored in the database.
+- **Description**: Fetches all enrollments stored in the database.
 - **Response Example**:
   ```json
   [
     {
-      "fechaMatricula": "2024-11-19T12:00:00",
-      "cupoDisponible": true,
-      "estadoMatricula": "Activo",
-      "idMatricula": 2,
-      "idEstudiante": 101
+      "enrollmentDate": "2024-11-20T12:00:00",
+      "isSlotAvailable": true,
+      "enrollmentStatus": "Active",
+      "enrollmentId": 1,
+      "studentId": 1
     }
   ]
 
-### **3. Add New Matricula**
-- **URL**: `/api/Matricula/nuevaMatricula`
+### **3. Add New Enrollment**
+- **URL**: `/api/Enrollment/CreateEnrollment`
 - **Method**: `POST`
-- **Description**: Accepts JSON payload to create a new matricula.
+- **Description**: Accepts JSON payload to create a new enrollment.
 - **Request Body Example**:
   ```json
   {
-    "fechaMatricula": "2024-11-21T09:30:00",
-    "cupoDisponible": true,
-    "estadoMatricula": "Pendiente",
-    "idMatricula": 3,
-    "idEstudiante": 105
+    "enrollmentDate": "2024-11-21T09:30:00",
+    "isSlotAvailable": true,
+    "enrollmentStatus": "Pending",
+    "enrollmentId": 3,
+    "studentId": 105
   }
   
 - **Response**:
   ```json
   {
-    "Cupo Disponible": true,
-    "Fecha de Matrícula": "2024-11-21T09:30:00",
-    "Estado de Matrícula": "Pendiente",
-    "ID Estudiante": 105,
-    "ID Matrícula": 3
+  "message": "Enrollment 3 created successfully.",
+  "enrollmentDetails": {
+    "isSlotAvailable": true,
+    "enrollmentDate": "2024-11-20T12:00:00",
+    "enrollmentStatus": "Active",
+    "studentId": 3,
+    "enrollmentId": 3
   }
+}
+
 
 ## **Setup Instructions**
 
@@ -87,7 +91,7 @@ This project is a RESTful API for managing student enrollments (matriculas). It 
   ```json
   {
     "ConnectionStrings": {
-      "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE;Trusted_Connection=True;"
+      "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE; user=YOUR_USER; password=YOUR_PASSWORD;Trusted_Connection=True;"
     }
   }
 
@@ -99,5 +103,5 @@ This project is a RESTful API for managing student enrollments (matriculas). It 
 ## **Future Improvements**
 - Add validation for incoming data.
 - Implement error logging.
-- Include PUT and DELETE endpoints for updating and deleting matriculas.
+- Include PUT and DELETE endpoints for updating and deleting enrollments.
 - Add Swagger documentation for better API usability.

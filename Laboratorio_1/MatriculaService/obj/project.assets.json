@@ -7088,9 +7088,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\MatriculaService.csproj",
-      "projectName": "MatriculaService",
-      "projectPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\MatriculaService.csproj",
+      "projectUniqueName": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj",
+      "projectName": "EnrollmentService",
+      "projectPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj",
       "packagesPath": "C:\\Users\\ferpi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,5 +1,5 @@
-using MatriculaService.Controllers;
-using MatriculaService.Data;
+using EnrollmentService.Data;
+using EnrollmentService.Controllers;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,8 +15,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IMatricula, MatriculaSystem>();
-builder.Services.AddScoped<IMatriculaEstudianteRepository, MatriculaRepository>();
+builder.Services.AddScoped<IEnrollment, EnrollmentSystem>();
+builder.Services.AddScoped<IStudentEnrollmentRepository, EnrollmentRepository>();
 
 var app = builder.Build();
 

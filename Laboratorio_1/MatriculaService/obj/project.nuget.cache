@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sk/i0OhssEw=",
+  "dgSpecHash": "DAnotQw68ZM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\MatriculaService.csproj",
+  "projectFilePath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferpi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ferpi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

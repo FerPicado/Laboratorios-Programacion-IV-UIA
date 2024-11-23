@@ -1,38 +1,38 @@
 [
   {
-    "ContainingType": "Laboratorio_1.Controllers.MatriculaController",
-    "Method": "GetMatricula",
-    "RelativePath": "api/Matricula/GetMatricula",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Laboratorio_1.Controllers.MatriculaController",
-    "Method": "miMatriculaDb",
-    "RelativePath": "api/Matricula/miMatriculaDb",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Laboratorio_1.Controllers.MatriculaController",
-    "Method": "nuevaMatricula",
-    "RelativePath": "api/Matricula/nuevaMatricula",
+    "ContainingType": "Laboratorio_1.Controllers.EnrollmentController",
+    "Method": "CreateEnrollment",
+    "RelativePath": "api/Enrollment/CreateEnrollment",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "matInfo",
-        "Type": "MatriculaService.Models.MatriculaEstudianteModel",
+        "Name": "enrollmentInfo",
+        "Type": "EnrollmentService.Models.StudentEnrollmentModel",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laboratorio_1.Controllers.EnrollmentController",
+    "Method": "GetEnrollment",
+    "RelativePath": "api/Enrollment/GetEnrollment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laboratorio_1.Controllers.EnrollmentController",
+    "Method": "GetEnrollmentDb",
+    "RelativePath": "api/Enrollment/GetEnrollmentDb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

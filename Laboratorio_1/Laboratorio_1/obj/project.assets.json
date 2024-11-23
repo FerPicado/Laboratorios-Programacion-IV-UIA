@@ -2332,7 +2332,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "MatriculaService/1.0.0": {
+      "EnrollmentService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -2340,10 +2340,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/MatriculaService.dll": {}
+          "bin/placeholder/EnrollmentService.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MatriculaService.dll": {}
+          "bin/placeholder/EnrollmentService.dll": {}
         }
       }
     }
@@ -7523,16 +7523,16 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "MatriculaService/1.0.0": {
+    "EnrollmentService/1.0.0": {
       "type": "project",
-      "path": "../MatriculaService/MatriculaService.csproj",
-      "msbuildProject": "../MatriculaService/MatriculaService.csproj"
+      "path": "../MatriculaService/EnrollmentService.csproj",
+      "msbuildProject": "../MatriculaService/EnrollmentService.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "DotNetEnv >= 3.1.1",
-      "MatriculaService >= 1.0.0",
+      "EnrollmentService >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -7570,8 +7570,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\MatriculaService.csproj": {
-              "projectPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\MatriculaService.csproj"
+            "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj": {
+              "projectPath": "C:\\Users\\ferpi\\source\\repos\\Laboratorios\\Laboratorio_1\\MatriculaService\\EnrollmentService.csproj"
             }
           }
         }

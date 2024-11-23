@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MatriculaService\MatriculaService.csproj" />
+    <ProjectReference Include="..\MatriculaService\EnrollmentService.csproj" />
   </ItemGroup>
 
 </Project>

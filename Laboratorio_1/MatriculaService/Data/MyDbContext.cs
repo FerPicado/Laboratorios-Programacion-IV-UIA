@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MatriculaService.Models;
+using EnrollmentService.Models;
 
-namespace MatriculaService.Data
+namespace EnrollmentService.Data
 {
     public class MyDbContext : DbContext
     {
         public MyDbContext(DbContextOptions<MyDbContext> options) : base(options) { }
-        public DbSet<MatriculaEstudianteModel> MatriculaEstudianteModel { get; set; }
+        public DbSet<StudentEnrollmentModel> StudentEnrollmentModel { get; set; }
     }
 }
