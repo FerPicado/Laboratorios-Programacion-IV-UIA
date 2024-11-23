@@ -31,7 +31,7 @@ This project is a RESTful API for managing student enrollments. It provides endp
     "isSlotAvailable": true,
     "enrollmentStatus": "Active",
     "enrollmentId": 1,
-    "studentId": 1
+    "studentId": 2
   }
 
 ### **2. Get All Enrollments from Database**
